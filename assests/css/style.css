@@ -133,8 +133,15 @@ nav a:hover{
   background-image: url(../images/Screenshot-2.png);
 }
 
-.flex-item:last-child {
+.flex-item:nth-child(2) {
+  padding: 5rem;
   background-image: url(../images/Screenshot\ 2022-10-13\ 173600.png);
+}
+
+.flex-item:last-child {
+  padding: 3rem;
+  flex-basis: 90%;
+  background-image: url(../images/jokeapi.png);
 }
 .flex-item:hover {
   border: 8px solid var(--highlight);
