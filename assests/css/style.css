@@ -137,7 +137,7 @@ nav a:hover{
   padding: 5rem;
   background-image: url(../images/Screenshot\ 2022-10-13\ 173600.png);
 }
-
+  
 .flex-item:last-child {
   padding: 3rem;
   flex-basis: 90%;
